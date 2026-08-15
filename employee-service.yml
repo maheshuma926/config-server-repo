@@ -1,0 +1,4 @@
+# employee-service.yml
+
+employee:
+  message: Welcome from Spring Cloud Config Server
